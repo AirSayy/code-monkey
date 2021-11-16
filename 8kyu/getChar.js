@@ -6,3 +6,5 @@
 // should return:
 
 // 'A'
+
+// SOLUTION
