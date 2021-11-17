@@ -8,3 +8,9 @@
 // 'A'
 
 // SOLUTION
+
+function getChar(c){
+    // takes a number
+  //   return ASCII char of that parameter which is a number
+    return String.fromCharCode(c)
+  }
