@@ -4,4 +4,4 @@
 
 // The input array will always be valid! (odd-length >= 3)
 
-SOLUTION
+// SOLUTION
