@@ -7,3 +7,8 @@
 //      let removeLastChar= removeFirstChar.slice(0 , -1)
 //      return removeLastChar
 //    };
+
+//SOLUTION 2
+// function removeChar(str) {
+//     return str.slice(1, -1);
+//   }
