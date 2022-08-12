@@ -15,3 +15,8 @@
 //     return Number(arr)
 //   }
 
+// ANOTHER SOLUTION
+
+// function descendingOrder(n) {
+//     return parseInt(n.toString().split("").sort().reverse().join(""));
+//   }
