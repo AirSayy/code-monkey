@@ -9,7 +9,6 @@
 
 // function solution(str, ending){
 //     // TODO: complete
-//     let str1 = str.substr(2 , 8)
-//     return str1 == ending
+//     return str.indexOf(ending, str.length - ending.length) !== -1;
     
 //   }
