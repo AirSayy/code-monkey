@@ -2,5 +2,6 @@
 
 // Note: Empty arrays should return 0.
 
-SOLUTION
+// SOLUTION
+
 
