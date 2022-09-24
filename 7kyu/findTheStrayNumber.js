@@ -1,1 +1,1 @@
-solved a
+solved a 6kyu
