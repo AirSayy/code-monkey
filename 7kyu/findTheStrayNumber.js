@@ -1,1 +1,1 @@
-solved a 6kyu
+solved a 6kyu kata
