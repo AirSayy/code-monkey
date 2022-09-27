@@ -8,7 +8,7 @@
 
 function stray(numbers) {
     let sorted = numbers.sort((a , b) => a - b)
-  //   console.log(sorted.slice(-1))
+  
     if(sorted[0] != sorted[1] ){
       return sorted[0]
     }
