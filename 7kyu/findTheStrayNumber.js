@@ -1,1 +1,1 @@
-solved a 6kyu kata from nigeria
+solved a 6kyu kata from nigeria in africa
