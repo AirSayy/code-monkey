@@ -1,6 +1,7 @@
 # CODE-WARS CHALLENGES
 
 I am driven by puzzels and codewars gives me that. Its challenges keeps my up-to date with recent algorithm patterns and better understanding about the language I work with.
+
 **Link to project:** https://www.codewars.com/dashboard
 
 ![my dashboard](https://user-images.githubusercontent.com/107049081/198634200-ee3c963d-6d96-4a38-872f-a5f283d817fb.png)
