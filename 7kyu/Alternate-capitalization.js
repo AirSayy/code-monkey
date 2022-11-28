@@ -8,10 +8,17 @@
 
 // SOLUTION
 
-function capitalize(s){
-    const even = s.split('').map((el,idx)=> idx % 2 == 0 ? el.toUpperCase() : el.toLowerCase()).join('')
-    const odd = s.split('').map((el,idx)=> idx % 2 == 1 ? el.toUpperCase() : el.toLowerCase()).join('')
-    const joinedArray = []
-    joinedArray.push(even,odd)
-    return joinedArray
-  };
+// function capitalize(s){
+//     const even = s.split('').map((el,idx)=> idx % 2 == 0 ? el.toUpperCase() : el.toLowerCase()).join('')
+//     const odd = s.split('').map((el,idx)=> idx % 2 == 1 ? el.toUpperCase() : el.toLowerCase()).join('')
+//     const joinedArray = []
+//     joinedArray.push(even,odd)
+//     return joinedArray
+//   };
+
+//   SOLUTION 2
+//   function capitalize(s){
+//     const odd = s.split("").map((l, i) => i % 2 !== 0 ? l.toUpperCase() : l).join("");
+//     const even = s.split("").map((l, i) => i % 2 === 0 ? l.toUpperCase() : l).join("");
+//     return [even, odd];
+//   };
