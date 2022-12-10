@@ -17,7 +17,7 @@ I solve code challenges everyday and practice code algorithms , this has built m
 
 ## Lessons Learned:
 
-Code-wars gives you beautiful insights about programming languages.
+Code-wars gives you beautiful insights about programming languages and algorithm.
 Improvements in my problem solving skills and speed.
 Different types of programming patterns that gives you same answers.
 Helps you write clean codes.
