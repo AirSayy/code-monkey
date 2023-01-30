@@ -11,3 +11,18 @@
 // [1,2,2,3,3,3,4,3,3,3,2,2,1] should return 4, because it appears 1 time (which is odd).
 
 // solutions
+function findOdd(A) {
+    //happy coding!
+    let count = 0;
+    let arr = A.sort((a, b) => a - b);
+    for (let i = 0; i < arr.length; i++) {
+      for (let j = 0; j < arr.length; j++) {
+        if (arr[i] == arr[j]) {
+          count++;
+        }
+      }
+      if (count % 2 !== 0) {
+        return arr[i];
+      }
+    }
+  }
