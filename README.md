@@ -11,7 +11,7 @@ I am driven by puzzels and codewars gives me that. Its challenges keeps me up-to
 
 **Tech used:** JavaScript
 
-I solve code challenges everyday and practice code algorithms , this has built my confidence in javascript algorithms continually. When im not working on my projects, you can find me solving code-wars and pushing the solutions here.
+I solve code everyday and practice code algorithms , this has built my confidence in javascript algorithms continually. When im not working on my projects, you can find me solving code-wars and pushing the solutions here.
 
 
 
