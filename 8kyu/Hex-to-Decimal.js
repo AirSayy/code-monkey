@@ -3,7 +3,7 @@
 // SOLUTION
 
 function hexToDec(hexString){
-    //your code 
+    //your 
      return parseInt(hexString,16)
     
   }
