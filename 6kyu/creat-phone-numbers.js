@@ -6,7 +6,7 @@
 
 // Don't forget the space after the closing parentheses!
 
-// SOLUTION
+// SOLUTIOn
 
 function createPhoneNumber(numbers){
     let one = numbers[0] 
