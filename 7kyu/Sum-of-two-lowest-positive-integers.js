@@ -7,8 +7,8 @@
 
 // SOLUTION
 
-function sumTwoSmallestNumbers(numbers) {  
-    const arr = numbers.sort((a,b)=>a-b)
-    const result = arr[0] + arr[1]
-    return result
-  }
+// function sumTwoSmallestNumbers(numbers) {  
+//     const arr = numbers.sort((a,b)=>a-b)
+//     const result = arr[0] + arr[1]
+//     return result
+//   }
