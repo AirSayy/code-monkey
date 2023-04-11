@@ -8,7 +8,7 @@
 // a = "abcdefghijklmnopqrstuvwxyz"
 // longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
 
-// solution
+// solution...
 
 function longest(s1, s2) {
     // concat the strings 
