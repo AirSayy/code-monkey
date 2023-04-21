@@ -11,7 +11,7 @@
 // "ATTGC" --> "TAACG"
 // "GTAT" --> "CATA"
 
-// solution
+// solutio
 
 function DNAStrand(dna){
     //your code here
