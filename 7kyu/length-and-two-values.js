@@ -19,4 +19,4 @@ function alternate(n, firstValue, secondValue){
       } 
     }
    return newArr
-  }
+  
