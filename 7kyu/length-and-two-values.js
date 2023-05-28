@@ -18,5 +18,4 @@ function alternate(n, firstValue, secondValue){
         newArr.push(firstValue)
       } 
     }
-   return newArr
-  
+   return newArr}
