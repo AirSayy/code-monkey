@@ -1,4 +1,4 @@
-# CODE-WARS CHALLENGES
+# CODE-WARS
 
 I am driven by puzzels and codewars gives me that. Its challenges keeps me up-to date with recent algorithm patterns and better understanding about the language you work with.
 
