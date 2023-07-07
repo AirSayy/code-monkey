@@ -48,4 +48,4 @@ function revrot(str, sz) {
   }
 
   return result;
-};
+}
