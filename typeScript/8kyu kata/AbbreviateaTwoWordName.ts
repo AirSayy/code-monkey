@@ -8,15 +8,12 @@
 
 // patrick feeney => P.F
 
-function abbrev(string){
-
-    const newStr = string.split(' ')
+export function abbrevName(name: string): string {
+    // code away
+    const newStr = name.split(' ')
     const firstName = newStr[0].toUpperCase()
     const secondName= newStr[1].toUpperCase()
     return `${firstName[0]}.${secondName[0]}` 
 
+
 }
-console.log(abbrev('Sam House'))
-console.log(abbrev('a bread'))
-console.log(abbrev('patrick john'))
-console.log(abbrev('a b'))
