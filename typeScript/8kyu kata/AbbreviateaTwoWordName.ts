@@ -16,4 +16,3 @@ export function abbrevName(name: string): string {
     return `${firstName[0]}.${secondName[0]}` 
 
 
-}
