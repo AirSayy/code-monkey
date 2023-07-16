@@ -15,4 +15,4 @@ export function abbrevName(name: string): string {
     const secondName= newStr[1].toUpperCase()
     return `${firstName[0]}.${secondName[0]}` 
 
-
+}
