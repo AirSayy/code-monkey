@@ -4,7 +4,8 @@ I am driven by puzzels and codewars gives me that. Its challenges keeps me up-to
 
 **Link to project:** https://www.codewars.com/dashboard
 
-![my dashboard](https://user-images.githubusercontent.com/107049081/198634200-ee3c963d-6d96-4a38-872f-a5f283d817fb.png)
+
+![codeMonkey](https://github.com/AirSayy/code-monkey/assets/107049081/108e1816-6a23-4676-8f1f-9a6989bf8d98)
 
 
 ## How It's Made:
