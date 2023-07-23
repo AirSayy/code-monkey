@@ -20,4 +20,4 @@ export function rentalCarCost(d: number): number {
      return (d * 40) - 50
    }
    return d
- }
+ 
