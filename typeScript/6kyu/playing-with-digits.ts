@@ -46,4 +46,4 @@ export class G964 {
 // 1. If you put the number 89 in the box and set "p" to 1, the magic box will do the following: 8^1 + 9^2 = 8 + 81 = 89. It got the same number as "n," so it tells you the special number "k" is 1 because 89 * 1 = 89.
 // 2. But if you put the number 92 in the box and set "p" to 1, the magic box will do this: 9^1 + 2^2 = 9 + 4 = 13. It's not the same as "n" (92), so it tells you there's no special number "k" that makes 92 * k equal to 13.
 
-/ And that's how the magic box called "digPow" works! It tries to find a special number "k" to make the digits' special powers add up to the original number "n."
+//And that's how the magic box called "digPow" works! It tries to find a special number "k" to make the digits' special powers add up to the original number "n."
